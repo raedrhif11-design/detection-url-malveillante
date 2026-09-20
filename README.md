@@ -2,7 +2,7 @@
 
 Application de classification d'URLs (Phishing, Malware) basée sur l'extraction de caractéristiques lexicales et un modèle XGBoost, déployée avec Streamlit.
 
-#Caractéristiques extraites
+## 📊Caractéristiques extraites
 - Longueur de l'URL
 - Fréquence des séparateurs et caractères suspects (`.`, `-`, `@`, `//`)
 - Présence d'adresses IPv4 directes
